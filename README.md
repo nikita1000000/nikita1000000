@@ -34,7 +34,6 @@ I am passionate about teaching machines to understand human language and turning
 ### 🤝 Connect with me
 
 * **WhatsApp:** ±380998688155
-* **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 * **Email:** nikita.1000000.1000000.1000000@gmail.com
 
 
