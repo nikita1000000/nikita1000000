@@ -35,7 +35,9 @@ I am passionate about teaching machines to understand human language and turning
 
 * **Telegram:** [@ваш_никнейм](https://t.me)
 * **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* **Email:** [ваш_email@example.com](mailto:ваш_email@example.com)
+* **Email:** nikita.1000000.1000000.1000000@gmail.com
+*
+* (mailto:ваш_email@example.com)
 
 
 
